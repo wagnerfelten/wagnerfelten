@@ -1,7 +1,9 @@
 ## Bem vindo!!! Eu sou o WagnerFelten 😎😎😎
 
-- Atualmente estudando Java e react ☕☕
-
+- Atualmente estudando  ☕☕
+  - java
+  - react
+  - Spring boot
 
 <div align="center">
   <a href="https://github.com/wagnerfelten">
