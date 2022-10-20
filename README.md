@@ -1,8 +1,10 @@
 ## Bem vindo!!! Eu sou o WagnerFelten 😎😎😎
 
 - Atualmente estudando  ☕☕
-  - java
-  - react
+  - Javascript
+  - Vite
+  - Vue
+  - React
   - Spring boot
 
 <div align="center">
