@@ -5,6 +5,7 @@
   - Vite
   - Vue
   - React
+  - Node.js
   - Spring boot
 
 <div align="center">
