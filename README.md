@@ -1,4 +1,4 @@
-## Bem vindo!!!  😎😎😎
+## Bem vindo!!! Começando sistema de informação   😎😎😎
 
 - Atualmente estudando  ☕☕
   - Javascript
