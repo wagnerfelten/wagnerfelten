@@ -1,4 +1,4 @@
-## Bem vindo!!! Começando sistema de informação   😎😎😎
+## Bem vindo!!! 1° semestre em sistema de informação   😎😎😎
 
 - Atualmente estudando  ☕☕
   - Javascript
